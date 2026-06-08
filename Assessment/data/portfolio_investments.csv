@@ -1,0 +1,104 @@
+fund_code,fund_name,strategy,company_name,company_code,instrument_id,instrument_type,deal_date,principal_invested,currency,coupon_rate,maturity_date,internal_price,position_status
+SSF-001,Sixth Street Tactical Opportunities Fund I,Opportunistic Credit,Alden Biotech,ALDBT,ALDBT-2026-TL,Term Loan,2025-01-22,22000000,USD,4.59,2026-01-22,92.2,Active
+SSF-001,Sixth Street Tactical Opportunities Fund I,Opportunistic Credit,Northwind Logistics,NWLGX,NWLGX-2026-BRL,Bridge Loan,2025-01-17,35000000,USD,3.21,2026-01-17,91.5,Active
+SSF-001,Sixth Street Tactical Opportunities Fund I,Opportunistic Credit,Granite Power,GNTPW,GNTPW-2027-BRL,Bridge Loan,2025-01-25,35000000,USD,4.43,2027-01-25,99.4,Active
+SSF-001,Sixth Street Tactical Opportunities Fund I,Opportunistic Credit,Maple Healthcare,MPLHC,MPLHC-2028-EQ,Equity Warrant,2025-02-04,,USD,,2028-02-04,,Active
+SSF-001,Sixth Street Tactical Opportunities Fund I,Opportunistic Credit,BluePeak Energy,BLPEG,BLPEG-2030-RCF,Revolving Credit Facility,2025-03-04,22000000,USD,8.25,2030-03-04,101.7,Exited
+SSF-002,Sixth Street Direct Lending Fund II,Direct Lending,Crescent Media,CRSMD,CRSMD-2030-TL,Term Loan,2025-02-19,25000000,USD,8.39,2030-02-19,99.9,Active
+SSF-002,Sixth Street Direct Lending Fund II,Direct Lending,Harbor Aviation,HBRAV,HBRAV-2026-TL,Term Loan,2025-01-28,20000000,USD,8.02,2026-01-28,105.8,Active
+SSF-002,Sixth Street Direct Lending Fund II,Direct Lending,Summit Retail Group,SMTRG,SMTRG-2029-CVT,Convertible Note,2025-03-09,30000000,USD,4.06,2029-03-09,95.7,Active
+SSF-002,Sixth Street Direct Lending Fund II,Direct Lending,Pinnacle Pharma,PNCLP,PNCLP-2030-TL,Term Loan,2025-02-13,16000000,USD,6.47,2030-02-13,93.9,Active
+SSF-003,Sixth Street Multi-Asset Fund III,Multi-Asset,Vertex Software,VTXSW,VTXSW-2027-BRL,Bridge Loan,2025-01-27,28000000,EUR,8.48,2027-01-27,102.4,Active
+SSF-003,Sixth Street Multi-Asset Fund III,Multi-Asset,Lakeshore Metals,LKSHM,LKSHM-2029-RCF,Revolving Credit Facility,2025-03-23,22000000,EUR,3.43,2029-03-23,104.6,Active
+SSF-003,Sixth Street Multi-Asset Fund III,Multi-Asset,Oceanic Freight,OCNFR,OCNFR-2029-SUB,Subordinated Note,2025-03-18,40000000,EUR,3.93,2029-03-18,92.2,Active
+SSF-003,Sixth Street Multi-Asset Fund III,Multi-Asset,Solaris Renewables,SLRSR,SLRSR-2029-UTR,Unitranche,2025-01-17,32000000,EUR,5.35,2029-01-17,106.0,Active
+SSF-003,Sixth Street Multi-Asset Fund III,Multi-Asset,Nordic Transport,NRDTR,NRDTR-2032-SSN,Senior Secured Note,2025-03-14,14000000,EUR,3.99,2032-03-14,92.6,Active
+SSF-004,Sixth Street European Credit Fund IV,European Credit,Rhine Industries,RHINID,RHINID-2030-EQ,Equity Warrant,2025-01-22,22000000,EUR,,2030-01-22,,Active
+SSF-004,Sixth Street European Credit Fund IV,European Credit,Alpine Hospitality,ALPNH,ALPNH-2026-RCF,Revolving Credit Facility,2025-03-24,25000000,EUR,5.83,2026-03-24,97.3,Active
+SSF-004,Sixth Street European Credit Fund IV,European Credit,TechNova AI,TCNVA,TCNVA-2032-BRL,Bridge Loan,2025-03-10,16000000,EUR,6.3,2032-03-10,91.7,Active
+SSF-004,Sixth Street European Credit Fund IV,European Credit,Quantum Diagnostics,QNTDX,QNTDX-2030-BRL,Bridge Loan,2025-03-25,18000000,EUR,3.99,2030-03-25,102.2,Active
+SSF-005,Sixth Street Growth Equity Fund V,Growth Equity,DataStream Analytics,DTSTR,DTSTR-2028-UTR,Unitranche,2025-02-08,45000000,USD,3.13,2028-02-08,104.9,Active
+SSF-005,Sixth Street Growth Equity Fund V,Growth Equity,Thames Grid Solutions,THMGS,THMGS-2026-UTR,Unitranche,2025-03-25,12000000,USD,7.76,2026-03-25,103.1,Active
+SSF-005,Sixth Street Growth Equity Fund V,Growth Equity,Caledonian Rail,CLDRN,CLDRN-2030-SUB,Subordinated Note,2025-02-07,16000000,USD,4.72,2030-02-07,104.0,Watchlist
+SSF-006,Sixth Street Infrastructure Debt Fund VI,Infrastructure,Windsor Utilities,WNDSR,WNDSR-2031-MZN,Mezzanine Debt,2025-02-15,25000000,GBP,5.59,2031-02-15,100.7,Active
+SSF-006,Sixth Street Infrastructure Debt Fund VI,Infrastructure,Pacific Semiconductor,PACSM,PACSM-2026-SUB,Subordinated Note,2025-03-18,20000000,GBP,4.46,2026-03-18,95.4,Active
+SSF-006,Sixth Street Infrastructure Debt Fund VI,Infrastructure,Horizon Shipping,HRZNS,HRZNS-2026-MZN,Mezzanine Debt,2025-01-02,12000000,GBP,7.6,2026-01-02,90.9,Active
+SSF-006,Sixth Street Infrastructure Debt Fund VI,Infrastructure,SilverLake Ventures,SVLKV,SVLKV-2030-TL,Term Loan,2025-03-05,20000000,GBP,4.81,2030-03-05,97.8,Active
+SSF-006,Sixth Street Infrastructure Debt Fund VI,Infrastructure,Cascade Telecom,CSCTL,CSCTL-2030-UTR,Unitranche,2025-02-07,45000000,GBP,4.58,2030-02-07,97.6,Active
+SSF-007,Sixth Street Asia-Pacific Opportunities Fund VII,Asia-Pacific,Redwood Capital Partners,RDWCP,RDWCP-2028-EQ,Equity Warrant,2025-01-22,10000000,USD,,2028-01-22,,Active
+SSF-007,Sixth Street Asia-Pacific Opportunities Fund VII,Asia-Pacific,Vanguard Aerospace,VNGRD,VNGRD-2031-EQ,Equity Warrant,2025-01-07,,USD,,2031-01-07,,Active
+SSF-007,Sixth Street Asia-Pacific Opportunities Fund VII,Asia-Pacific,Sterling Industrial,STRLI,STRLI-2028-BND,Corporate Bond,2025-02-26,40000000,USD,4.62,2028-02-26,104.8,Active
+SSF-007,Sixth Street Asia-Pacific Opportunities Fund VII,Asia-Pacific,Atlas Chemicals,ATLSC,ATLSC-2026-BRL,Bridge Loan,2025-01-03,10000000,USD,7.24,2026-01-03,98.6,Watchlist
+SSF-007,Sixth Street Asia-Pacific Opportunities Fund VII,Asia-Pacific,Meridian Hotels,MRDNH,MRDNH-2027-MZN,Mezzanine Debt,2025-02-02,35000000,USD,6.16,2027-02-02,93.4,Active
+SSF-008,Sixth Street Distressed Debt Fund VIII,Distressed Debt,Ironclad Security,IRNCS,IRNCS-2028-EQ,Equity Warrant,2025-03-26,15000000,USD,,2028-03-26,,Active
+SSF-008,Sixth Street Distressed Debt Fund VIII,Distressed Debt,Olympus Mining,OLYMN,OLYMN-2028-MZN,Mezzanine Debt,2025-03-02,18000000,USD,9.3,2028-03-02,99.3,Active
+SSF-008,Sixth Street Distressed Debt Fund VIII,Distressed Debt,Zenith Healthcare,ZNTHL,ZNTHL-2026-SSN,Senior Secured Note,2025-01-02,45000000,USD,6.27,2026-01-02,103.6,Watchlist
+SSF-009,Sixth Street CLO Fund IX,CLO / Structured,Falcon Logistics,FLCNL,FLCNL-2026-BND,Corporate Bond,2025-01-19,12000000,USD,7.39,2026-01-19,93.8,Active
+SSF-009,Sixth Street CLO Fund IX,CLO / Structured,Neptune Offshore,NPTNO,NPTNO-2026-UTR,Unitranche,2025-03-11,12000000,USD,5.72,2026-03-11,99.3,Watchlist
+SSF-009,Sixth Street CLO Fund IX,CLO / Structured,Titan Construction,TTNCO,TTNCO-2031-MZN,Mezzanine Debt,2025-03-21,28000000,USD,4.55,2031-03-21,96.3,Active
+SSF-010,Sixth Street Real Estate Debt Fund X,Real Estate Debt,Eclipse Fintech,ECLPF,ECLPF-2026-TL,Term Loan,2025-01-03,40000000,USD,7.04,2026-01-03,99.0,Active
+SSF-010,Sixth Street Real Estate Debt Fund X,Real Estate Debt,Aurora Clean Energy,AURCE,AURCE-2028-BRL,Bridge Loan,2025-01-12,15000000,USD,9.07,2028-01-12,104.1,Active
+SSF-010,Sixth Street Real Estate Debt Fund X,Real Estate Debt,Cobalt Materials,CBLTM,CBLTM-2032-SUB,Subordinated Note,2025-03-17,25000000,USD,6.98,2032-03-17,105.8,Active
+SSF-012,Sixth Street Direct Lending Fund XII,Direct Lending,Alpine Hospitality,ALPNH,ALPNH-2028-TL,Term Loan,2025-01-28,35000000,USD,9.33,2028-01-28,102.0,Active
+SSF-013,Sixth Street European Opportunities Fund XIII,European Credit,TechNova AI,TCNVA,TCNVA-2026-EQ,Equity Warrant,2025-02-26,20000000,EUR,,2026-02-26,,Active
+SSF-013,Sixth Street European Opportunities Fund XIII,European Credit,Quantum Diagnostics,QNTDX,QNTDX-2027-CVT,Convertible Note,2025-02-08,14000000,EUR,5.49,2027-02-08,90.6,Active
+SSF-013,Sixth Street European Opportunities Fund XIII,European Credit,DataStream Analytics,DTSTR,DTSTR-2028-SUB,Subordinated Note,2025-01-01,25000000,EUR,8.33,2028-01-01,103.9,Active
+SSF-014,Sixth Street Growth Partners Fund XIV,Growth Equity,Thames Grid Solutions,THMGS,THMGS-2028-RCF,Revolving Credit Facility,2025-03-17,12000000,USD,9.28,2028-03-17,94.5,Active
+SSF-014,Sixth Street Growth Partners Fund XIV,Growth Equity,Caledonian Rail,CLDRN,CLDRN-2028-BRL,Bridge Loan,2025-01-19,8000000,USD,3.75,2028-01-19,105.5,Exited
+SSF-014,Sixth Street Growth Partners Fund XIV,Growth Equity,Windsor Utilities,WNDSR,WNDSR-2026-CVT,Convertible Note,2025-02-14,14000000,USD,6.88,2026-02-14,95.5,Active
+SSF-014,Sixth Street Growth Partners Fund XIV,Growth Equity,Pacific Semiconductor,PACSM,PACSM-2026-BRL,Bridge Loan,2025-01-23,32000000,USD,8.85,2026-01-23,93.0,Active
+SSF-015,Sixth Street Infrastructure Partners Fund XV,Infrastructure,Horizon Shipping,HRZNS,HRZNS-2031-BRL,Bridge Loan,2025-03-11,18000000,GBP,5.37,2031-03-11,91.1,Active
+SSF-015,Sixth Street Infrastructure Partners Fund XV,Infrastructure,SilverLake Ventures,SVLKV,SVLKV-2031-TL,Term Loan,2025-02-13,25000000,GBP,6.3,2031-02-13,100.7,Active
+SSF-015,Sixth Street Infrastructure Partners Fund XV,Infrastructure,Cascade Telecom,CSCTL,CSCTL-2027-BRL,Bridge Loan,2025-03-24,18000000,GBP,5.73,2027-03-24,105.0,Active
+SSF-015,Sixth Street Infrastructure Partners Fund XV,Infrastructure,Redwood Capital Partners,RDWCP,RDWCP-2030-UTR,Unitranche,2025-02-10,25000000,GBP,5.64,2030-02-10,103.3,Active
+SSF-015,Sixth Street Infrastructure Partners Fund XV,Infrastructure,Vanguard Aerospace,VNGRD,VNGRD-2030-UTR,Unitranche,2025-01-17,28000000,GBP,6.02,2030-01-17,97.1,Active
+SSF-016,Sixth Street Asia Credit Fund XVI,Asia-Pacific,Sterling Industrial,STRLI,STRLI-2031-BND,Corporate Bond,2025-03-11,12000000,USD,4.84,2031-03-11,100.6,Active
+SSF-016,Sixth Street Asia Credit Fund XVI,Asia-Pacific,Atlas Chemicals,ATLSC,ATLSC-2031-MZN,Mezzanine Debt,2025-01-02,25000000,USD,4.46,2031-01-02,93.2,Active
+SSF-016,Sixth Street Asia Credit Fund XVI,Asia-Pacific,Meridian Hotels,MRDNH,MRDNH-2030-SUB,Subordinated Note,2025-03-07,12000000,USD,5.96,2030-03-07,104.2,Active
+SSF-016,Sixth Street Asia Credit Fund XVI,Asia-Pacific,Ironclad Security,IRNCS,IRNCS-2029-EQ,Equity Warrant,2025-01-25,35000000,USD,,2029-01-25,,Active
+SSF-016,Sixth Street Asia Credit Fund XVI,Asia-Pacific,Olympus Mining,OLYMN,OLYMN-2027-MZN,Mezzanine Debt,2025-01-15,50000000,USD,6.02,2027-01-15,98.9,Active
+SSF-017,Sixth Street Distressed Opportunities Fund XVII,Distressed Debt,Zenith Healthcare,ZNTHL,ZNTHL-2030-BRL,Bridge Loan,2025-03-27,28000000,USD,9.18,2030-03-27,104.3,Active
+SSF-017,Sixth Street Distressed Opportunities Fund XVII,Distressed Debt,Falcon Logistics,FLCNL,FLCNL-2029-BRL,Bridge Loan,2025-02-15,40000000,USD,8.83,2029-02-15,101.9,Active
+SSF-017,Sixth Street Distressed Opportunities Fund XVII,Distressed Debt,Neptune Offshore,NPTNO,NPTNO-2032-MZN,Mezzanine Debt,2025-03-08,22000000,USD,7.98,2032-03-08,98.3,Active
+SSF-017,Sixth Street Distressed Opportunities Fund XVII,Distressed Debt,Titan Construction,TTNCO,TTNCO-2031-TL,Term Loan,2025-03-03,25000000,USD,4.52,2031-03-03,95.4,Active
+SSF-018,Sixth Street CLO Partners Fund XVIII,CLO / Structured,Eclipse Fintech,ECLPF,ECLPF-2031-EQ,Equity Warrant,2025-02-11,18000000,USD,,2031-02-11,,Active
+SSF-018,Sixth Street CLO Partners Fund XVIII,CLO / Structured,Aurora Clean Energy,AURCE,AURCE-2029-EQ,Equity Warrant,2025-02-16,32000000,USD,,2029-02-16,,Active
+SSF-018,Sixth Street CLO Partners Fund XVIII,CLO / Structured,Cobalt Materials,CBLTM,CBLTM-2030-EQ,Equity Warrant,2025-02-01,32000000,USD,,2030-02-01,,Active
+SSF-020,Sixth Street Multi-Strategy Fund XX,Multi-Asset,Lakeshore Metals,LKSHM,LKSHM-2030-UTR,Unitranche,2025-02-04,14000000,USD,8.06,2030-02-04,92.6,Active
+SSF-020,Sixth Street Multi-Strategy Fund XX,Multi-Asset,Oceanic Freight,OCNFR,OCNFR-2030-CVT,Convertible Note,2025-01-19,32000000,USD,5.58,2030-01-19,101.4,Active
+SSF-021,Sixth Street Senior Lending Fund XXI,Direct Lending,Solaris Renewables,SLRSR,SLRSR-2026-MZN,Mezzanine Debt,2025-01-26,25000000,USD,8.53,2026-01-26,99.6,Exited
+SSF-021,Sixth Street Senior Lending Fund XXI,Direct Lending,Nordic Transport,NRDTR,NRDTR-2028-SSN,Senior Secured Note,2025-03-11,35000000,USD,7.3,2028-03-11,91.1,Active
+SSF-021,Sixth Street Senior Lending Fund XXI,Direct Lending,Rhine Industries,RHINID,RHINID-2032-EQ,Equity Warrant,2025-03-27,,USD,,2032-03-27,,Active
+SSF-021,Sixth Street Senior Lending Fund XXI,Direct Lending,Alpine Hospitality,ALPNH,ALPNH-2031-BND,Corporate Bond,2025-03-25,50000000,USD,9.28,2031-03-25,94.3,Active
+SSF-021,Sixth Street Senior Lending Fund XXI,Direct Lending,TechNova AI,TCNVA,TCNVA-2032-EQ,Equity Warrant,2025-01-09,,USD,,2032-01-09,,Active
+SSF-022,Sixth Street European Direct Lending Fund XXII,European Credit,Quantum Diagnostics,QNTDX,QNTDX-2030-UTR,Unitranche,2025-02-06,32000000,EUR,5.19,2030-02-06,97.9,Active
+SSF-022,Sixth Street European Direct Lending Fund XXII,European Credit,DataStream Analytics,DTSTR,DTSTR-2032-RCF,Revolving Credit Facility,2025-03-09,22000000,EUR,5.21,2032-03-09,104.1,Active
+SSF-022,Sixth Street European Direct Lending Fund XXII,European Credit,Thames Grid Solutions,THMGS,THMGS-2027-BRL,Bridge Loan,2025-03-25,12000000,EUR,4.57,2027-03-25,96.5,Active
+SSF-022,Sixth Street European Direct Lending Fund XXII,European Credit,Caledonian Rail,CLDRN,CLDRN-2031-SUB,Subordinated Note,2025-02-08,45000000,EUR,5.91,2031-02-08,90.3,Active
+SSF-023,Sixth Street Global Opportunities Fund XXIII,Opportunistic Credit,Windsor Utilities,WNDSR,WNDSR-2031-CVT,Convertible Note,2025-02-24,30000000,USD,6.08,2031-02-24,98.5,Active
+SSF-023,Sixth Street Global Opportunities Fund XXIII,Opportunistic Credit,Pacific Semiconductor,PACSM,PACSM-2031-RCF,Revolving Credit Facility,2025-01-24,40000000,USD,4.76,2031-01-24,94.0,Active
+SSF-023,Sixth Street Global Opportunities Fund XXIII,Opportunistic Credit,Horizon Shipping,HRZNS,HRZNS-2031-TL,Term Loan,2025-02-24,16000000,USD,4.25,2031-02-24,101.8,Active
+SSF-024,Sixth Street Infrastructure Credit Fund XXIV,Infrastructure,SilverLake Ventures,SVLKV,SVLKV-2028-UTR,Unitranche,2025-02-06,14000000,GBP,8.41,2028-02-06,94.7,Active
+SSF-024,Sixth Street Infrastructure Credit Fund XXIV,Infrastructure,Cascade Telecom,CSCTL,CSCTL-2028-BRL,Bridge Loan,2025-03-05,10000000,GBP,9.33,2028-03-05,98.9,Active
+SSF-024,Sixth Street Infrastructure Credit Fund XXIV,Infrastructure,Redwood Capital Partners,RDWCP,RDWCP-2026-SUB,Subordinated Note,2025-02-11,8000000,GBP,6.73,2026-02-11,97.5,Active
+SSF-024,Sixth Street Infrastructure Credit Fund XXIV,Infrastructure,Vanguard Aerospace,VNGRD,VNGRD-2028-SSN,Senior Secured Note,2025-02-03,45000000,GBP,3.74,2028-02-03,91.0,Active
+SSF-024,Sixth Street Infrastructure Credit Fund XXIV,Infrastructure,Sterling Industrial,STRLI,STRLI-2027-SSN,Senior Secured Note,2025-01-08,15000000,GBP,8.27,2027-01-08,105.2,Active
+SSF-025,Sixth Street Specialty Finance Fund XXV,CLO / Structured,Atlas Chemicals,ATLSC,ATLSC-2030-UTR,Unitranche,2025-02-10,20000000,USD,8.04,2030-02-10,96.1,Active
+SSF-025,Sixth Street Specialty Finance Fund XXV,CLO / Structured,Meridian Hotels,MRDNH,MRDNH-2028-EQ,Equity Warrant,2025-01-21,16000000,USD,,2028-01-21,,Active
+SSF-025,Sixth Street Specialty Finance Fund XXV,CLO / Structured,Ironclad Security,IRNCS,IRNCS-2027-MZN,Mezzanine Debt,2025-03-20,12000000,USD,4.02,2027-03-20,96.5,Active
+SSF-025,Sixth Street Specialty Finance Fund XXV,CLO / Structured,Olympus Mining,OLYMN,OLYMN-2027-SSN,Senior Secured Note,2025-02-03,25000000,USD,7.6,2027-02-03,101.2,Active
+SSF-026,Sixth Street Real Assets Fund XXVI,Real Estate Debt,Zenith Healthcare,ZNTHL,ZNTHL-2031-UTR,Unitranche,2025-03-05,18000000,USD,5.76,2031-03-05,98.7,Active
+SSF-026,Sixth Street Real Assets Fund XXVI,Real Estate Debt,Falcon Logistics,FLCNL,FLCNL-2027-BND,Corporate Bond,2025-02-15,25000000,USD,6.87,2027-02-15,103.2,Active
+SSF-026,Sixth Street Real Assets Fund XXVI,Real Estate Debt,Neptune Offshore,NPTNO,NPTNO-2031-CVT,Convertible Note,2025-02-15,32000000,USD,9.13,2031-02-15,98.0,Active
+SSF-026,Sixth Street Real Assets Fund XXVI,Real Estate Debt,Titan Construction,TTNCO,TTNCO-2029-SSN,Senior Secured Note,2025-01-22,28000000,USD,6.92,2029-01-22,90.4,Active
+SSF-027,Sixth Street Asia Growth Fund XXVII,Asia-Pacific,Eclipse Fintech,ECLPF,ECLPF-2026-UTR,Unitranche,2025-01-16,22000000,USD,6.75,2026-01-16,102.2,Active
+SSF-027,Sixth Street Asia Growth Fund XXVII,Asia-Pacific,Aurora Clean Energy,AURCE,AURCE-2028-SUB,Subordinated Note,2025-02-03,16000000,USD,9.48,2028-02-03,97.0,Active
+SSF-027,Sixth Street Asia Growth Fund XXVII,Asia-Pacific,Cobalt Materials,CBLTM,CBLTM-2028-EQ,Equity Warrant,2025-02-14,,USD,,2028-02-14,,Active
+SSF-028,Sixth Street Distressed Credit Fund XXVIII,Distressed Debt,Neptune Offshore,NPTNO,NPTNO-2029-BND,Corporate Bond,2025-01-28,18000000,EUR,8.99,2029-01-28,98.1,Active
+SSF-005,Sixth Street Growth Equity Fund V,Growth Equity,SilverLake Ventures,SVLKV,SVLKV-2030-EQ,Equity Warrant,2025-03-20,8000000,USD,,2030-03-20,,Active
+SSF-004,Sixth Street European Credit Fund IV,European Credit,Genève Immobilier Sàrl,GNVIM,GNVIM-2029-SSN,Senior Secured Note,2025-01-18,22000000,EUR,5.25,2029-01-18,99.4,Active
+SSF-013,Sixth Street European Opportunities Fund XIII,European Credit,Geneve Immobilier S.A.R.L,GNVIM,GNVIM-2031-TL,Term Loan,2025-02-12,18000000,EUR,5.75,2031-02-12,97.8,Active
+SSF-004,Sixth Street European Credit Fund IV,European Credit,Müller & Söhne GmbH,MLRSH,MLRSH-2028-BND,Corporate Bond,2025-02-05,15000000,EUR,4.5,2028-02-05,101.3,Active
+SSF-022,Sixth Street European Direct Lending Fund XXII,European Credit,Mueller & Soehne GmbH,MLRSH,MLRSH-2030-TL,Term Loan,2025-03-10,20000000,EUR,5.1,2030-03-10,98.5,Active
+SSF-007,Sixth Street Asia-Pacific Opportunities Fund VII,Asia-Pacific,São Paulo Holdings,SPHLG,SPHLG-2029-SSN,Senior Secured Note,2025-01-25,16000000,USD,7.25,2029-01-25,96.8,Active
+SSF-016,Sixth Street Asia Credit Fund XVI,Asia-Pacific,Sao Paulo Holdings,SPHLG,SPHLG-2031-MZN,Mezzanine Debt,2025-03-01,12000000,USD,8.75,2031-03-01,94.5,Active

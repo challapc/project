@@ -1,0 +1,1772 @@
+{
+  "ALDBT-2026-TL": {
+    "instrument_id": "ALDBT-2026-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 23664686,
+        "interest_accrued": 252450,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 21146041,
+        "interest_accrued": 168300,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "ALPNH-2026-RCF": {
+    "instrument_id": "ALPNH-2026-RCF",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": "23.621.873,00",
+        "interest_accrued": "364.375,00",
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "ALPNH-2028-TL": {
+    "instrument_id": "ALPNH-2028-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 33814808,
+        "interest_accrued": 816375,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 34469591,
+        "interest_accrued": 544250,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "ALPNH-2031-BND": {
+    "instrument_id": "ALPNH-2031-BND",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 44789684,
+        "interest_accrued": 1160000,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "ATLSC-2026-BRL": {
+    "instrument_id": "ATLSC-2026-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 9281660,
+        "interest_accrued": 181000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 9193345,
+        "interest_accrued": 120667,
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 9269150,
+        "interest_accrued": 60333,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "ATLSC-2030-UTR": {
+    "instrument_id": "ATLSC-2030-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 20310444,
+        "interest_accrued": 402000,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 21182918,
+        "interest_accrued": 268000,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "ATLSC-2031-MZN": {
+    "instrument_id": "ATLSC-2031-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 26810145,
+        "interest_accrued": 278750,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 26136676,
+        "interest_accrued": 185833,
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 26124016,
+        "interest_accrued": 92917,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "AURCE-2028-BRL": {
+    "instrument_id": "AURCE-2028-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 14276877,
+        "interest_accrued": 340125,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 13136214,
+        "interest_accrued": 226750,
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 13827618,
+        "interest_accrued": 113375,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "AURCE-2028-SUB": {
+    "instrument_id": "AURCE-2028-SUB",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 16464551,
+        "interest_accrued": 379200,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 16500916,
+        "interest_accrued": 252800,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 14668141,
+        "interest_accrued": 126400,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "AURCE-2029-EQ": {
+    "instrument_id": "AURCE-2029-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 32995695,
+        "interest_accrued": 0,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 31885517,
+        "interest_accrued": 0,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 29783469,
+        "interest_accrued": 0,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "BLPEG-2030-RCF": {
+    "instrument_id": "BLPEG-2030-RCF",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 19938212,
+        "interest_accrued": 453750,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 22574003,
+        "interest_accrued": 302500,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 22424142,
+        "interest_accrued": 151250,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "CBLTM-2028-EQ": {
+    "instrument_id": "CBLTM-2028-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 9803590,
+        "interest_accrued": 0,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 9227965,
+        "interest_accrued": 0,
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 10647546,
+        "interest_accrued": 0,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "CBLTM-2030-EQ": {
+    "instrument_id": "CBLTM-2030-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 31157321,
+        "interest_accrued": 0,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "CBLTM-2032-SUB": {
+    "instrument_id": "CBLTM-2032-SUB",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 25621084,
+        "interest_accrued": 436250,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 23620739,
+        "interest_accrued": 290833,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 23172857,
+        "interest_accrued": 145417,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "CLDRN-2028-BRL": {
+    "instrument_id": "CLDRN-2028-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 8238419,
+        "interest_accrued": 75000,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 8279689,
+        "interest_accrued": 50000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 8027389,
+        "interest_accrued": 25000,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "CLDRN-2030-SUB": {
+    "instrument_id": "CLDRN-2030-SUB",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 14788375,
+        "interest_accrued": 188800,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 16919360,
+        "interest_accrued": 125867,
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 14377754,
+        "interest_accrued": 62933,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "CLDRN-2031-SUB": {
+    "instrument_id": "CLDRN-2031-SUB",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 48563346,
+        "interest_accrued": 664875,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 47446495,
+        "interest_accrued": 443250,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "CRSMD-2030-TL": {
+    "instrument_id": "CRSMD-2030-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 25352431,
+        "interest_accrued": 524375,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 23897180,
+        "interest_accrued": 349583,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "CSCTL-2027-BRL": {
+    "instrument_id": "CSCTL-2027-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 18197719,
+        "interest_accrued": 257850,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 17136198,
+        "interest_accrued": 171900,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "CSCTL-2028-BRL": {
+    "instrument_id": "CSCTL-2028-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 9541060,
+        "interest_accrued": 233250,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 10482952,
+        "interest_accrued": 155500,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 9692477,
+        "interest_accrued": 77750,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "CSCTL-2030-UTR": {
+    "instrument_id": "CSCTL-2030-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 43183257,
+        "interest_accrued": 515250,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "DTSTR-2028-SUB": {
+    "instrument_id": "DTSTR-2028-SUB",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 22458367,
+        "interest_accrued": 520625,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 26795351,
+        "interest_accrued": 347083,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "DTSTR-2028-UTR": {
+    "instrument_id": "DTSTR-2028-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 48499388,
+        "interest_accrued": 352125,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "DTSTR-2032-RCF": {
+    "instrument_id": "DTSTR-2032-RCF",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 23011198,
+        "interest_accrued": 286550,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "ECLPF-2026-TL": {
+    "instrument_id": "ECLPF-2026-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 41704424,
+        "interest_accrued": 704000,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "ECLPF-2026-UTR": {
+    "instrument_id": "ECLPF-2026-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 19372476,
+        "interest_accrued": 371250,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 23566042,
+        "interest_accrued": 247500,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 19450686,
+        "interest_accrued": 123750,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "ECLPF-2031-EQ": {
+    "instrument_id": "ECLPF-2031-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 17129672,
+        "interest_accrued": 0,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "FLCNL-2026-BND": {
+    "instrument_id": "FLCNL-2026-BND",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 10597875,
+        "interest_accrued": 221700,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 12265619,
+        "interest_accrued": 147800,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "FLCNL-2027-BND": {
+    "instrument_id": "FLCNL-2027-BND",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 24241376,
+        "interest_accrued": 429375,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 22394502,
+        "interest_accrued": 286250,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "FLCNL-2029-BRL": {
+    "instrument_id": "FLCNL-2029-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 41465816,
+        "interest_accrued": 883000,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 37327174,
+        "interest_accrued": 588667,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 35220055,
+        "interest_accrued": 294333,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "GNTPW-2027-BRL": {
+    "instrument_id": "GNTPW-2027-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 35602682,
+        "interest_accrued": 387625,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 31221814,
+        "interest_accrued": 258417,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "GNVIM-2029-SSN": {
+    "instrument_id": "GNVIM-2029-SSN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": "19.915.243,00",
+        "interest_accrued": "288.750,00",
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "GNVIM-2031-TL": {
+    "instrument_id": "GNVIM-2031-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": "18.403.750,00",
+        "interest_accrued": "258.750,00",
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": "17.648.670,00",
+        "interest_accrued": "172.500,00",
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": "15.922.930,00",
+        "interest_accrued": "86.250,00",
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "HBRAV-2026-TL": {
+    "instrument_id": "HBRAV-2026-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 19406220,
+        "interest_accrued": 401000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 20805880,
+        "interest_accrued": 267333,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "HRZNS-2026-MZN": {
+    "instrument_id": "HRZNS-2026-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 11584234,
+        "interest_accrued": 228000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 12758687,
+        "interest_accrued": 152000,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "HRZNS-2031-BRL": {
+    "instrument_id": "HRZNS-2031-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 16168409,
+        "interest_accrued": 241650,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "HRZNS-2031-TL": {
+    "instrument_id": "HRZNS-2031-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 16462685,
+        "interest_accrued": 170000,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "IRNCS-2027-MZN": {
+    "instrument_id": "IRNCS-2027-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 10703954,
+        "interest_accrued": 120600,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 11315416,
+        "interest_accrued": 80400,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 12427961,
+        "interest_accrued": 40200,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "IRNCS-2028-EQ": {
+    "instrument_id": "IRNCS-2028-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 13354338,
+        "interest_accrued": 0,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 14155588,
+        "interest_accrued": 0,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 13488465,
+        "interest_accrued": 0,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "IRNCS-2029-EQ": {
+    "instrument_id": "IRNCS-2029-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": "36,717,614",
+        "interest_accrued": "0",
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": "34,522,678",
+        "interest_accrued": "0",
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "LKSHM-2029-RCF": {
+    "instrument_id": "LKSHM-2029-RCF",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": "23.447.971,00",
+        "interest_accrued": "188.650,00",
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": "19.395.298,00",
+        "interest_accrued": "125.767,00",
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": "23.203.205,00",
+        "interest_accrued": "62.883,00",
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "LKSHM-2030-UTR": {
+    "instrument_id": "LKSHM-2030-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": "13,905,699",
+        "interest_accrued": "282,100",
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "MLRSH-2028-BND": {
+    "instrument_id": "MLRSH-2028-BND",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 15099516,
+        "interest_accrued": 168750,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 13765019,
+        "interest_accrued": 112500,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 13537435,
+        "interest_accrued": 56250,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "MLRSH-2030-TL": {
+    "instrument_id": "MLRSH-2030-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 19984895,
+        "interest_accrued": 255000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 18090785,
+        "interest_accrued": 170000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 18396591,
+        "interest_accrued": 85000,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "MPLHC-2028-EQ": {
+    "instrument_id": "MPLHC-2028-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": null,
+        "interest_accrued": 0,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": null,
+        "interest_accrued": 0,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": null,
+        "interest_accrued": 0,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "MRDNH-2027-MZN": {
+    "instrument_id": "MRDNH-2027-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 32343629,
+        "interest_accrued": 539000,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "MRDNH-2028-EQ": {
+    "instrument_id": "MRDNH-2028-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 14734154,
+        "interest_accrued": 0,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "MRDNH-2030-SUB": {
+    "instrument_id": "MRDNH-2030-SUB",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 11254673,
+        "interest_accrued": 178800,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 12311967,
+        "interest_accrued": 119200,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "NPTNO-2026-UTR": {
+    "instrument_id": "NPTNO-2026-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 12248811,
+        "interest_accrued": 171600,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 10626252,
+        "interest_accrued": 114400,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 11470654,
+        "interest_accrued": 57200,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "NPTNO-2029-BND": {
+    "instrument_id": "NPTNO-2029-BND",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 17912733,
+        "interest_accrued": 404550,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 16787930,
+        "interest_accrued": 269700,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "NPTNO-2031-CVT": {
+    "instrument_id": "NPTNO-2031-CVT",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 33288462,
+        "interest_accrued": 730400,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "NPTNO-2032-MZN": {
+    "instrument_id": "NPTNO-2032-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 21281532,
+        "interest_accrued": 438900,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "NRDTR-2028-SSN": {
+    "instrument_id": "NRDTR-2028-SSN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 33603149,
+        "interest_accrued": 638750,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 35888594,
+        "interest_accrued": 425833,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 30840050,
+        "interest_accrued": 212917,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "NRDTR-2032-SSN": {
+    "instrument_id": "NRDTR-2032-SSN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 13303079,
+        "interest_accrued": 139650,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 12937151,
+        "interest_accrued": 93100,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "NWLGX-2026-BRL": {
+    "instrument_id": "NWLGX-2026-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 35016793,
+        "interest_accrued": 280875,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "OCNFR-2029-SUB": {
+    "instrument_id": "OCNFR-2029-SUB",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 42810337,
+        "interest_accrued": 393000,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "OCNFR-2030-CVT": {
+    "instrument_id": "OCNFR-2030-CVT",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 33023214,
+        "interest_accrued": 446400,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 31958596,
+        "interest_accrued": 297600,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 33242045,
+        "interest_accrued": 148800,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "OLYMN-2027-MZN": {
+    "instrument_id": "OLYMN-2027-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 44682863,
+        "interest_accrued": 752500,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 51626729,
+        "interest_accrued": 501667,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "OLYMN-2027-SSN": {
+    "instrument_id": "OLYMN-2027-SSN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 22370953,
+        "interest_accrued": 475000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 22068111,
+        "interest_accrued": 316667,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 24732385,
+        "interest_accrued": 158333,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "OLYMN-2028-MZN": {
+    "instrument_id": "OLYMN-2028-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 17978687,
+        "interest_accrued": 418500,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 17685517,
+        "interest_accrued": 279000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 17153814,
+        "interest_accrued": 139500,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "PACSM-2026-BRL": {
+    "instrument_id": "PACSM-2026-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 32032037,
+        "interest_accrued": 708000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 30771740,
+        "interest_accrued": 472000,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "PACSM-2026-SUB": {
+    "instrument_id": "PACSM-2026-SUB",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 17937317,
+        "interest_accrued": 223000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 18480934,
+        "interest_accrued": 148667,
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 19421136,
+        "interest_accrued": 74333,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "PACSM-2031-RCF": {
+    "instrument_id": "PACSM-2031-RCF",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 42543494,
+        "interest_accrued": 476000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 40534425,
+        "interest_accrued": 317333,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "PNCLP-2030-TL": {
+    "instrument_id": "PNCLP-2030-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 15135010,
+        "interest_accrued": 258800,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "QNTDX-2027-CVT": {
+    "instrument_id": "QNTDX-2027-CVT",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 13025588,
+        "interest_accrued": 192150,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 14699847,
+        "interest_accrued": 128100,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "QNTDX-2030-BRL": {
+    "instrument_id": "QNTDX-2030-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 16956834,
+        "interest_accrued": 179550,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 16166154,
+        "interest_accrued": 119700,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "QNTDX-2030-UTR": {
+    "instrument_id": "QNTDX-2030-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 31737101,
+        "interest_accrued": 415200,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 33128833,
+        "interest_accrued": 276800,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "RDWCP-2026-SUB": {
+    "instrument_id": "RDWCP-2026-SUB",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 8112730,
+        "interest_accrued": 134600,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 7592619,
+        "interest_accrued": 89733,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 7456704,
+        "interest_accrued": 44867,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "RDWCP-2028-EQ": {
+    "instrument_id": "RDWCP-2028-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 10799953,
+        "interest_accrued": 0,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "RDWCP-2030-UTR": {
+    "instrument_id": "RDWCP-2030-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 24538449,
+        "interest_accrued": 352500,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "RHINID-2030-EQ": {
+    "instrument_id": "RHINID-2030-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": "22.272.489,00",
+        "interest_accrued": "0,00",
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "RHINID-2032-EQ": {
+    "instrument_id": "RHINID-2032-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 9994493,
+        "interest_accrued": 0,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "SLRSR-2026-MZN": {
+    "instrument_id": "SLRSR-2026-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 25855489,
+        "interest_accrued": 533125,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 25547177,
+        "interest_accrued": 355417,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 25186803,
+        "interest_accrued": 177708,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "SLRSR-2029-UTR": {
+    "instrument_id": "SLRSR-2029-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 29983539,
+        "interest_accrued": 428000,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 29532392,
+        "interest_accrued": 285333,
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 33718099,
+        "interest_accrued": 142667,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "SMTRG-2029-CVT": {
+    "instrument_id": "SMTRG-2029-CVT",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 31016631,
+        "interest_accrued": 304500,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 29272854,
+        "interest_accrued": 203000,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "SPHLG-2029-SSN": {
+    "instrument_id": "SPHLG-2029-SSN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 14522875,
+        "interest_accrued": 290000,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 16774193,
+        "interest_accrued": 193333,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 16160410,
+        "interest_accrued": 96667,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "SPHLG-2031-MZN": {
+    "instrument_id": "SPHLG-2031-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 10761300,
+        "interest_accrued": 262500,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 12694589,
+        "interest_accrued": 175000,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "STRLI-2027-SSN": {
+    "instrument_id": "STRLI-2027-SSN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 16039240,
+        "interest_accrued": 310125,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "STRLI-2028-BND": {
+    "instrument_id": "STRLI-2028-BND",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 42643775,
+        "interest_accrued": 462000,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 39060608,
+        "interest_accrued": 308000,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "STRLI-2031-BND": {
+    "instrument_id": "STRLI-2031-BND",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 11098893,
+        "interest_accrued": 145200,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 12487627,
+        "interest_accrued": 96800,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "SVLKV-2028-UTR": {
+    "instrument_id": "SVLKV-2028-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 12427249,
+        "interest_accrued": 294350,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "SVLKV-2030-TL": {
+    "instrument_id": "SVLKV-2030-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 20924442,
+        "interest_accrued": 240500,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 19353566,
+        "interest_accrued": 160333,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 17527006,
+        "interest_accrued": 80167,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "SVLKV-2031-TL": {
+    "instrument_id": "SVLKV-2031-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 26701130,
+        "interest_accrued": 393750,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 22448314,
+        "interest_accrued": 262500,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 22413866,
+        "interest_accrued": 131250,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "TCNVA-2026-EQ": {
+    "instrument_id": "TCNVA-2026-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 18043432,
+        "interest_accrued": 0,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "TCNVA-2032-BRL": {
+    "instrument_id": "TCNVA-2032-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 14132593,
+        "interest_accrued": 252000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 16310059,
+        "interest_accrued": 168000,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 15921806,
+        "interest_accrued": 84000,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "TCNVA-2032-EQ": {
+    "instrument_id": "TCNVA-2032-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 10128743,
+        "interest_accrued": 0,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "THMGS-2026-UTR": {
+    "instrument_id": "THMGS-2026-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 12848169,
+        "interest_accrued": 232800,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "THMGS-2027-BRL": {
+    "instrument_id": "THMGS-2027-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 10608802,
+        "interest_accrued": 137100,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 11967430,
+        "interest_accrued": 91400,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 12236998,
+        "interest_accrued": 45700,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "THMGS-2028-RCF": {
+    "instrument_id": "THMGS-2028-RCF",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 11138702,
+        "interest_accrued": 278400,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 12317025,
+        "interest_accrued": 185600,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "TTNCO-2029-SSN": {
+    "instrument_id": "TTNCO-2029-SSN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 24888280,
+        "interest_accrued": 484400,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "TTNCO-2031-MZN": {
+    "instrument_id": "TTNCO-2031-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": "27,241,888",
+        "interest_accrued": "318,500",
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": "29,114,252",
+        "interest_accrued": "212,333",
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": "24,644,796",
+        "interest_accrued": "106,167",
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "TTNCO-2031-TL": {
+    "instrument_id": "TTNCO-2031-TL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 23577979,
+        "interest_accrued": 282500,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "VNGRD-2028-SSN": {
+    "instrument_id": "VNGRD-2028-SSN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 43860598,
+        "interest_accrued": 420750,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 41774628,
+        "interest_accrued": 280500,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 46973199,
+        "interest_accrued": 140250,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "VNGRD-2030-UTR": {
+    "instrument_id": "VNGRD-2030-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 27086928,
+        "interest_accrued": 421400,
+        "settlement_status": "Pending"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 29507362,
+        "interest_accrued": 280933,
+        "settlement_status": "Pending"
+      }
+    ]
+  },
+  "VNGRD-2031-EQ": {
+    "instrument_id": "VNGRD-2031-EQ",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 10184137,
+        "interest_accrued": 0,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 9306832,
+        "interest_accrued": 0,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "VTXSW-2027-BRL": {
+    "instrument_id": "VTXSW-2027-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 27051400,
+        "interest_accrued": 593600,
+        "settlement_status": "Settled"
+      }
+    ]
+  },
+  "WNDSR-2026-CVT": {
+    "instrument_id": "WNDSR-2026-CVT",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 13142546,
+        "interest_accrued": 240800,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 14108246,
+        "interest_accrued": 160533,
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 12631170,
+        "interest_accrued": 80267,
+        "settlement_status": "Closed"
+      }
+    ]
+  },
+  "WNDSR-2031-CVT": {
+    "instrument_id": "WNDSR-2031-CVT",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": "30,760,886",
+        "interest_accrued": "456,000",
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "WNDSR-2031-MZN": {
+    "instrument_id": "WNDSR-2031-MZN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 23372777,
+        "interest_accrued": 349375,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 22197703,
+        "interest_accrued": 232917,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "ZNTHL-2026-SSN": {
+    "instrument_id": "ZNTHL-2026-SSN",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 46809864,
+        "interest_accrued": 705375,
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 40576289,
+        "interest_accrued": 470250,
+        "settlement_status": "Closed"
+      },
+      {
+        "entry_date": "2025-01-31",
+        "last_valuation": 39684783,
+        "interest_accrued": 235125,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "ZNTHL-2030-BRL": {
+    "instrument_id": "ZNTHL-2030-BRL",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": 26783985,
+        "interest_accrued": 642600,
+        "settlement_status": "Break"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": 25342471,
+        "interest_accrued": 428400,
+        "settlement_status": "Break"
+      }
+    ]
+  },
+  "ZNTHL-2031-UTR": {
+    "instrument_id": "ZNTHL-2031-UTR",
+    "entries": [
+      {
+        "entry_date": "2025-03-31",
+        "last_valuation": "17,438,181",
+        "interest_accrued": "259,200",
+        "settlement_status": "Settled"
+      },
+      {
+        "entry_date": "2025-02-28",
+        "last_valuation": "17,652,739",
+        "interest_accrued": "172,800",
+        "settlement_status": "Break"
+      }
+    ]
+  }
+}

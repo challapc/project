@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  padding: 24px;
+  font-family: Inter, Arial, sans-serif;
+  background: #f8fafc;
+  color: #1e293b;
+}
+
+.page {
+  max-width: 1600px;
+  margin: auto;
+}
+
+.header {
+  margin-bottom: 24px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 34px;
+}
+
+.header p {
+  color: #64748b;
+  margin-top: 8px;
+}
+
+.kpi-container {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.kpi-card {
+  flex: 1;
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+}
+
+.kpi-label {
+  color: #64748b;
+  font-size: 14px;
+}
+
+.kpi-value {
+  font-size: 28px;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+.positive {
+  color: #16a34a;
+}
+
+.negative {
+  color: #dc2626;
+}
+
+.section-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  margin-top: 20px;
+}
+
+.grid {
+  height: 420px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  overflow: hidden;
+}
