@@ -12,38 +12,44 @@ export default function App() {
   const [instruments, setInstruments] = useState([])
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/fund-summary')
-      .then(r => r.json())
-      .then(setFunds)
+    fetch('http://localhost:5001/api/fund-summary')
+      .then(response => response.json())
+      .then(data => setFunds(data))
+      .catch(error =>
+        console.error('Failed to load fund summary:', error)
+      )
 
-    fetch('http://localhost:5000/api/instrument-details')
-      .then(r => r.json())
-      .then(setInstruments)
+    fetch('http://localhost:5001/api/instrument-details')
+      .then(response => response.json())
+      .then(data => setInstruments(data))
+      .catch(error =>
+        console.error('Failed to load instrument details:', error)
+      )
   }, [])
 
-  const totalValuation =
-    funds.reduce(
-      (sum, item) => sum + Number(item.total_valuation_usd || 0),
-      0
-    )
+  const totalValuation = funds.reduce(
+    (sum, item) =>
+      sum + Number(item.total_valuation_usd || 0),
+    0
+  )
 
-  const totalPnL =
-    funds.reduce(
-      (sum, item) => sum + Number(item.unrealized_pnl_usd || 0),
-      0
-    )
+  const totalPnL = funds.reduce(
+    (sum, item) =>
+      sum + Number(item.unrealized_pnl_usd || 0),
+    0
+  )
 
-  const totalPositions =
-    funds.reduce(
-      (sum, item) => sum + Number(item.active_positions || 0),
-      0
-    )
+  const totalPositions = funds.reduce(
+    (sum, item) =>
+      sum + Number(item.active_positions || 0),
+    0
+  )
 
-  const totalInterest =
-    funds.reduce(
-      (sum, item) => sum + Number(item.total_interest_usd || 0),
-      0
-    )
+  const totalInterest = funds.reduce(
+    (sum, item) =>
+      sum + Number(item.total_interest_usd || 0),
+    0
+  )
 
   const currencyFormatter = params => {
     const value = Number(params.value || 0)
@@ -70,25 +76,33 @@ export default function App() {
       <div className='header'>
         <h1>Sixth Street Investment Analytics Dashboard</h1>
         <p>
-          Portfolio Valuation, Exposure, Risk & Performance Overview
+          Portfolio Valuation, Exposure, Risk &
+          Performance Overview
         </p>
       </div>
 
       <div className='kpi-container'>
         <div className='kpi-card'>
           <div className='kpi-label'>Funds</div>
-          <div className='kpi-value'>{funds.length}</div>
+          <div className='kpi-value'>
+            {funds.length}
+          </div>
         </div>
 
         <div className='kpi-card'>
-          <div className='kpi-label'>Portfolio Valuation</div>
+          <div className='kpi-label'>
+            Portfolio Valuation
+          </div>
           <div className='kpi-value'>
             ${(totalValuation / 1000000).toFixed(1)}M
           </div>
         </div>
 
         <div className='kpi-card'>
-          <div className='kpi-label'>Unrealized P&L</div>
+          <div className='kpi-label'>
+            Unrealized P&L
+          </div>
+
           <div
             className={
               totalPnL >= 0
@@ -101,12 +115,18 @@ export default function App() {
         </div>
 
         <div className='kpi-card'>
-          <div className='kpi-label'>Active Positions</div>
-          <div className='kpi-value'>{totalPositions}</div>
+          <div className='kpi-label'>
+            Active Positions
+          </div>
+          <div className='kpi-value'>
+            {totalPositions}
+          </div>
         </div>
 
         <div className='kpi-card'>
-          <div className='kpi-label'>Accrued Interest</div>
+          <div className='kpi-label'>
+            Accrued Interest
+          </div>
           <div className='kpi-value'>
             ${(totalInterest / 1000000).toFixed(1)}M
           </div>
@@ -222,6 +242,7 @@ export default function App() {
                     fontWeight: 'bold'
                   }
                 }
+
                 return null
               }
             },
